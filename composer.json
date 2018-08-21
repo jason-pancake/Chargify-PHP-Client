@@ -1,0 +1,22 @@
+{
+    "name": "chargify/php-sdk",
+    "description": "Chargify PHP SDK",
+    "keywords": ["chargify", "sdk"],
+    "type": "library",
+    "homepage": "https://github.com/jason-pancake/Chargify-PHP-Client",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Jason Pancake",
+            "homepage": "https://github.com/jason-pancake"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "classmap": ["lib/"]
+    }
+}
