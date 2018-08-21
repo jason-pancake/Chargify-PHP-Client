@@ -4,7 +4,7 @@
     "keywords": ["chargify", "sdk"],
     "type": "library",
     "homepage": "https://github.com/jason-pancake/Chargify-PHP-Client",
-    "license": "GPLv2",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jason Pancake",
